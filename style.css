@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+
+#container {
+    width: 70%;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.692);
+}
+
+.imglogo {
+    color: rgba(51, 50, 50, 0.5);
+    font-size: 16px;
+
+}
+
+.tdd {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.hrr {
+    width: 70px;
+    margin-left: 5px;
+}
+
+.hrr2 {
+    width: 90px;
+    margin-left: 5px;
+}
+
+.hrr3 {
+    width: 20px;
+    margin-right: 6px;
+}
+
+.hrr4 {
+    width: 80px;
+    margin-right: 10px;
+}
+
+#headd {
+    cursor: pointer;
+
+}
+
+
+.mainhead {
+    font-family: "Oswald", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: larger;
+    /* text-align: center;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 2px;
+    font-size: larger; */
+}
+
+span:hover {
+    color: rgba(187, 122, 2, 0.849);
+    cursor: pointer;
+}
+
+h2 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: larger;
+    background-color: black;
+    color: white;
+    width: 120px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#div1 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: small;
+}
+h1{
+font-family: serif;
+font-size: x-large;
+}
+a{
+    
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#div3{
+    text-align: center;
+    margin-top: -270px;
+    margin-left: -50px;
+    height: 90px;
+}
+img{
+    border-radius: 3px;
+}
+.dive4{
+float: right;
+  width: 300px;
+  height: 500px;
+  border: 2px solid rgb(190, 162, 4);
+  border-radius: 10px;
+  margin-top: -100px;
+  margin-right: 50px;
+  margin-left: 20px;
+  font-size: larger;
+  
+
+}
+.child{
+    letter-spacing: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: rgba(128, 128, 128, 0.438);
+    text-align: center;
+    height: 30px;
+    padding-top: 8px;
+    font-size: larger;
+}
